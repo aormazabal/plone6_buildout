@@ -88,13 +88,17 @@ Creating project
 Clone repo
 
 ::
-git clone https://github.com/aormazabal/plone6_buildout.git`
+
+    git clone https://github.com/aormazabal/plone6_buildout.git`
+
 --
 
 Rename main folder project
+::
+    cd ..
+    mv plone6_buildout plone609
 
-`cd ..`
-`mv plone6_buildout plone609`
+---
 
 From main folder
 
