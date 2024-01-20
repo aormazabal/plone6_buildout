@@ -91,22 +91,24 @@ Clone repo
 
     git clone https://github.com/aormazabal/plone6_buildout.git`
 
---
+----
 
 Rename main folder project
 ::
     cd ..
     mv plone6_buildout plone609
 
----
+----
 
 From main folder
+::
+    cd plone609
 
-`cd plone609`
+----
 
 Creating virtualenv
 
-`virtualenv -p python3.11.2 .`
+    virtualenv -p python3.11.2 .
 
 Install requirements
 
