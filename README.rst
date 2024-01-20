@@ -107,7 +107,7 @@ From main folder
 ----
 
 Creating virtualenv
-
+::
     virtualenv -p python3.11.2 .
 
 Install requirements
