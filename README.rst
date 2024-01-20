@@ -1,7 +1,7 @@
 Plone 6 Buildout
 =================
 
-Instalar dependencias
+Install dependencies
 =====================
 
 Update base linux dependencies:
@@ -87,7 +87,9 @@ Creating project
 
 Clone repo
 
-`git clone https://github.com/aormazabal/plone6_buildout.git`
+::
+git clone https://github.com/aormazabal/plone6_buildout.git`
+--
 
 Rename main folder project
 
